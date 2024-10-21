@@ -1,0 +1,9 @@
+.bottle-continer{
+    border: 2px solid turquoise;;
+    padding: 20px;;
+    border-radius: 15px;
+    gap: 20px;
+}
+.bottle-continer img{
+    width: 200px;
+}
